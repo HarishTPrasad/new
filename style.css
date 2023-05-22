@@ -1,0 +1,126 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+section{
+    height: 100vh;
+   display: flex;
+    color: white;
+    scroll-snap-align: start;
+  
+}
+
+.container{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+   
+}
+
+.left{
+      width: 40%;
+      height: 100vh;
+}
+
+.right{
+    display: flex;
+   
+}
+
+
+.one{
+    background-color: #CCCCCC;
+}
+
+.two{
+    background-color:  #C5CAE9;
+}
+
+.three{
+    background-color:#D3D3D3;
+}
+
+.four{
+    background-color: #B2DFDB;
+}
+
+.five{
+    background-color:  #D7CCC8;
+}
+
+.six{
+    background-color:  #D1C4E9;
+}
+
+.seven{
+    background-color:  #CFD8DC
+}
+
+.imgone{
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.imgtwo{
+    width: 400px;
+    margin-top: 50px
+}
+.imgthree{
+    width: 300px;
+    margin-top: 238px;
+    margin-left: 200px;
+}
+.imgfour{
+    width: 300px;
+    margin-left: 90px;
+}
+.imgfive{
+    width: 300px;
+    margin-top: 298px;
+    margin-left: 200px;
+}
+.imgsix{
+    width: 300px;
+   margin-left: 80px;
+}
+.imgseven{
+    width: 300px;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.imgeight{
+    width: 200px;
+    margin-left: 180px;
+}
+.imgnine{
+    margin-left: 200px;
+}
+.imgten{
+    margin-top: 200px;
+    margin-left: 100px;
+    
+}
+.imgeleven{
+  
+}
+.imgtwelve{
+    margin-top: -58px;
+    width: 910px;
+}
+.imgthirteen{
+    margin-top: 100px;
+    width: 400px;
+    margin-left: 200px;
+}
+.imgfourteen{
+    width: 300px;
+    
+}
+
+
+
+
+
